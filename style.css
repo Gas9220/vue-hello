@@ -1,3 +1,9 @@
 h1 {
     color: #30DCA6;
 }
+
+.logo {
+    width: 18.75rem;
+    border: .3125rem solid #30DCA6;
+    border-radius: 2.5rem;
+}
