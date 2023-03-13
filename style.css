@@ -7,3 +7,7 @@ h1 {
     border: .3125rem solid #30DCA6;
     border-radius: 2.5rem;
 }
+
+#app {
+    text-align: center;
+}
